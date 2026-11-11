@@ -21,7 +21,13 @@ TARGET = "combined_l_per_100km"
 
 
 def load_data(path="../processed_data/cleaned_fuel.csv"):
-    return pd.read_csv(path)
+    df = pd.read_csv(path)
+
+    before = len(df)
+    df = df.drop_duplicates(subset=FEATURES + [TARGET]).reset_index(drop=True)
+    print("Duplicate rows removed:", before - len(df))
+
+    return df
 
 
 def get_train_test_split(df, test_size=0.2, random_state=42):
