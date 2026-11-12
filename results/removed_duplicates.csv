@@ -1,0 +1,751 @@
+year,make,model,class,drive,transmission,engine_cylinders,engine_displacement,turbocharger,fuel_type,engine_descriptor,combined_mpg_ft1,combined_l_per_100km
+1984,AM General,DJ Po Vehicle 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.5,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,AM General,FJ8c Post Office,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,6.0,4.2,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,4.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS)(SIL) CA model,20,11.76075
+1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,4.2,False,Regular,(FFS) CA model,18,13.0675
+1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.5,False,Regular,(FFS) CA model,18,13.0675
+1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS)(SIL) CA model,20,11.76075
+1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,4.2,False,Regular,(FFS) CA model,18,13.0675
+1984,Cadillac,Brougham/DeVille (RWD),Large Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,4.1,False,Regular,(FFS) CA model,16,14.7009375
+1984,Chevrolet,C10 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,19,12.379736842105263
+1984,Chevrolet,C10 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,20,11.76075
+1984,Chevrolet,C20 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,19,12.379736842105263
+1984,Chevrolet,El Camino Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(GM-BUICK) CA model,17,13.836176470588237
+1984,Chevrolet,El Camino Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.0,False,Regular,(GM-CHEV) CA model,15,15.681
+1984,Chevrolet,El Camino Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV) CA model,17,13.836176470588237
+1984,Chevrolet,G10/20 Sport Van 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,13,18.09346153846154
+1984,Chevrolet,G10/20 Van 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 4-Speed,6.0,4.1,False,Regular,(FFS) CA model,15,15.681
+1984,Chevrolet,G10/20 Van 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,19,12.379736842105263
+1984,Chevrolet,G30 Sport Van 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,11,21.383181818181814
+1984,Chevrolet,K10 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,18,13.0675
+1984,Chevrolet,S10 Blazer 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,Chevrolet,S10 Blazer 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,Chevrolet,S10 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,4.0,2.2,False,Diesel,(DIESEL) CA model,28,8.400535714285715
+1984,Chevrolet,S10 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,Chevrolet,Suburban C10 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,13,18.09346153846154
+1984,Chevrolet,Suburban K10 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,12,19.60125
+1984,Chevrolet,Suburban K10 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,16,14.7009375
+1984,Chevrolet,T10 (S10) Blazer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,Chevrolet,T10 (S10) Blazer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,Chevrolet,T10 (S10) Blazer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Chevrolet,T10 (S10) Blazer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,Chevrolet,T10 (S10) Blazer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Chevrolet,T10 (S10) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,Chevrolet,T10 (S10) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,Chevrolet,T10 (S10) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Chevrolet,T10 (S10) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,Chevrolet,T10 (S10) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,Dodge,AD100/AD150 Ramcharger 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,12,19.60125
+1984,Dodge,AD100/AD150 Ramcharger 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.9,False,Regular,CA model,11,21.383181818181814
+1984,Dodge,AW100/AW150 Ramcharger 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,11,21.383181818181814
+1984,Dodge,AW100/AW150 Ramcharger 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.9,False,Regular,CA model,10,23.5215
+1984,Dodge,B150/B250 Van 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,12,19.60125
+1984,Dodge,B150/B250 Wagon 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,12,19.60125
+1984,Dodge,B350 Van 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,12,19.60125
+1984,Dodge,Caravan/Ram Van 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Manual 4-Speed,4.0,2.2,False,Regular,(FFS) CA model,22,10.691590909090907
+1984,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,12,19.60125
+1984,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.9,False,Regular,CA model,11,21.383181818181814
+1984,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,(FFS) CA model,12,19.60125
+1984,Dodge,D250 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,12,19.60125
+1984,Dodge,Power Ram 50 Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,,17,13.836176470588237
+1984,Dodge,Power Ram 50 Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,CA model,17,13.836176470588237
+1984,Dodge,Power Ram 50 Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,CA model,19,12.379736842105263
+1984,Dodge,Power Ram 50 Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,CA model,18,13.0675
+1984,Dodge,Ram 50 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,CA model,19,12.379736842105263
+1984,Dodge,Ram 50 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,CA model,18,13.0675
+1984,Dodge,Ram 50 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,CA model,21,11.200714285714286
+1984,Dodge,Ram 50 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,(CALIF),20,11.76075
+1984,Dodge,Ram 50 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,CA model,23,10.226739130434783
+1984,Dodge,Ram 50 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,CA model,20,11.76075
+1984,Dodge,Rampage Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Dodge,Rampage Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS) CA model,23,10.226739130434783
+1984,Dodge,W100/W150 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,11,21.383181818181814
+1984,Dodge,W100/W150 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.9,False,Regular,CA model,10,23.5215
+1984,Ford,Bronco 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,Ford,Bronco 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.0,False,Regular,(FFS) CA model,11,21.383181818181814
+1984,Ford,Bronco 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.8,False,Regular,(FFS) CA model,10,23.5215
+1984,Ford,Bronco 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,14,16.80107142857143
+1984,Ford,Bronco II 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Ford,E150 Club Wagon 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,12,19.60125
+1984,Ford,E150 Club Wagon 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,Ford,E150 Econoline 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 3-Speed,8.0,5.8,False,Regular,,11,21.383181818181814
+1984,Ford,E150 Econoline 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,14,16.80107142857143
+1984,Ford,E150 Econoline 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,15,15.681
+1984,Ford,E250 Econoline 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,Ford,E250 Econoline 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,Ford,E250 Econoline 2WD,"Vans, Cargo Type",2-Wheel Drive,Manual 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,14,16.80107142857143
+1984,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.8,False,Regular,,11,21.383181818181814
+1984,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,14,16.80107142857143
+1984,Ford,F150 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,15,15.681
+1984,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.8,False,Regular,(FFS) CA model,10,23.5215
+1984,Ford,F150 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,14,16.80107142857143
+1984,Ford,F250 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.8,False,Regular,,11,21.383181818181814
+1984,Ford,F250 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,Ford,F250 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,6.0,4.9,False,Regular,(FFS),14,16.80107142857143
+1984,Ford,F250 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS) CA model,13,18.09346153846154
+1984,Ford,F250 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.8,False,Regular,(FFS) CA model,10,23.5215
+1984,Ford,F250 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,14,16.80107142857143
+1984,Ford,F250 Pickup Cab Chassis 2WD,Special Purpose Vehicles,2-Wheel Drive,Automatic 3-Speed,8.0,5.0,False,Regular,(FFS) CA model,11,21.383181818181814
+1984,Ford,Ranger Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.3,False,Regular,(FFS) CA model,19,12.379736842105263
+1984,Ford,Ranger Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,4.0,2.3,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Ford,Ranger Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Ford,Ranger Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.3,False,Regular,(FFS) CA model,18,13.0675
+1984,Ford,Ranger Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Ford,Ranger Pickup Cab Chassis 2WD,Special Purpose Vehicles,2-Wheel Drive,Manual 4-Speed,4.0,2.3,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,GMC,C15 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,19,12.379736842105263
+1984,GMC,C15 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,20,11.76075
+1984,GMC,C15 Suburban 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,13,18.09346153846154
+1984,GMC,C25 Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,19,12.379736842105263
+1984,GMC,Caballero Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(GM-BUICK) CA model,17,13.836176470588237
+1984,GMC,Caballero Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,8.0,5.0,False,Regular,(GM-CHEV) CA model,15,15.681
+1984,GMC,Caballero Pickup 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV) CA model,17,13.836176470588237
+1984,GMC,G15/25 Rally 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,13,18.09346153846154
+1984,GMC,G35 Rally 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,11,21.383181818181814
+1984,GMC,K15 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,18,13.0675
+1984,GMC,K15 Suburban 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,12,19.60125
+1984,GMC,K15 Suburban 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,16,14.7009375
+1984,GMC,S15 Jimmy 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,GMC,S15 Jimmy 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,GMC,S15 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,4.0,2.2,False,Diesel,(DIESEL) CA model,28,8.400535714285715
+1984,GMC,S15 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,GMC,T15 (S15) Jimmy 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,GMC,T15 (S15) Jimmy 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,GMC,T15 (S15) Jimmy 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,GMC,T15 (S15) Jimmy 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,GMC,T15 (S15) Jimmy 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,GMC,T15 (S15) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,GMC,T15 (S15) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,GMC,T15 (S15) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,GMC,T15 (S15) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,GMC,T15 (S15) Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,18,13.0675
+1984,GMC,Vandura G15/25 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 4-Speed,6.0,4.1,False,Regular,(FFS) CA model,15,15.681
+1984,GMC,Vandura G15/25 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,(DIESEL) CA model,19,12.379736842105263
+1984,Isuzu,Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS) CA model,19,12.379736842105263
+1984,Isuzu,Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Diesel,(DIESEL) CA model,24,9.800625
+1984,Isuzu,Trooper 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,(FFS) CA model,18,13.0675
+1984,Jeep,Cherokee/Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.5,False,Regular,(FFS) CA model,18,13.0675
+1984,Jeep,Cherokee/Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,2.8,False,Regular,(FFS) CA model,16,14.7009375
+1984,Jeep,Cherokee/Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS)(SIL) CA model,20,11.76075
+1984,Jeep,Cherokee/Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS) CA model,20,11.76075
+1984,Jeep,Cherokee/Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.5,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Jeep,CJ7 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,4.2,False,Regular,(FFS) CA model,16,14.7009375
+1984,Jeep,CJ7 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS)(SIL) CA model,20,11.76075
+1984,Jeep,CJ7 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS) CA model,20,11.76075
+1984,Jeep,CJ7 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.5,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Jeep,CJ7 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,4.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Jeep,Grand Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,4.2,False,Regular,(FFS) CA model,15,15.681
+1984,Jeep,Grand Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.9,False,Regular,CA model,11,21.383181818181814
+1984,Jeep,Grand Wagoneer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.2,False,Regular,(FFS) CA model,16,14.7009375
+1984,Jeep,J-10 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.9,False,Regular,CA model,11,21.383181818181814
+1984,Jeep,J-10 Pickup 4WD,Standard Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.2,False,Regular,(FFS) CA model,16,14.7009375
+1984,Jeep,Scrambler Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS)(SIL) CA model,20,11.76075
+1984,Jeep,Scrambler Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.5,False,Regular,(FFS) CA model,20,11.76075
+1984,Jeep,Scrambler Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.5,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Jeep,Scrambler Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,4.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Mazda,B2000/B2200 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(CALIF) CA model,23,10.226739130434783
+1984,Mazda,B2000/B2200 Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Diesel,(CALIF) CA model,26,9.04673076923077
+1984,Mitsubishi,Montero 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS) CA model,15,15.681
+1984,Mitsubishi,Montero 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,(CAL)(FFS),17,13.836176470588237
+1984,Mitsubishi,Montero 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,(FFS) CA model,17,13.836176470588237
+1984,Mitsubishi,Truck 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,CA model,19,12.379736842105263
+1984,Mitsubishi,Truck 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,CA model,18,13.0675
+1984,Mitsubishi,Truck 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,CA model,21,11.200714285714286
+1984,Mitsubishi,Truck 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,,20,11.76075
+1984,Mitsubishi,Truck 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,CA model,23,10.226739130434783
+1984,Mitsubishi,Truck 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,CA model,20,11.76075
+1984,Mitsubishi,Truck 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,,17,13.836176470588237
+1984,Mitsubishi,Truck 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,CA model,17,13.836176470588237
+1984,Mitsubishi,Truck 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,2.0,False,Regular,CA model,19,12.379736842105263
+1984,Mitsubishi,Truck 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,CA model,18,13.0675
+1984,Nissan,Pickup 2WD,Small Pickup Trucks 2WD,2-Wheel Drive,Automatic 3-Speed,4.0,2.4,False,Regular,(FFS) CA model,19,12.379736842105263
+1984,Nissan,Pickup 4WD,Small Pickup Trucks 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,(FFS) CA model,18,13.0675
+1984,Subaru,Brat 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,True,Regular,"(FFS,TRBO) CA model",20,11.76075
+1984,Subaru,Sedan 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,False,Regular,(FFS) CA model,20,11.76075
+1984,Subaru,Sedan 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,True,Regular,"(FFS,TRBO) CA model",20,11.76075
+1984,Subaru,Wagon 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,False,Regular,(FFS) CA model,20,11.76075
+1984,Subaru,Wagon 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,True,Regular,"(FFS,TRBO) CA model",20,11.76075
+1984,Subaru,Wagon 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,1.8,False,Regular,(FFS) CA model,23,10.226739130434783
+1984,Toyota,4Runner 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,CA model,17,13.836176470588237
+1984,Toyota,Cab Chassis 2WD,Special Purpose Vehicles,2-Wheel Drive,Manual 4-Speed,4.0,2.4,False,Regular,CA model,15,15.681
+1984,Toyota,Cargo Van 2WD,"Vans, Cargo Type",2-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,CA model,20,11.76075
+1984,Toyota,Cargo Van 2WD,"Vans, Cargo Type",2-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,CA model,21,11.200714285714286
+1984,Toyota,Truck 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Automatic 4-Speed,4.0,2.4,False,Regular,(FFS) CA model,20,11.76075
+1984,Toyota,Truck 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,(FFS),21,11.200714285714286
+1984,Toyota,Truck 2WD,Standard Pickup Trucks 2WD,2-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Toyota,Van 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,(FFS) CA model,20,11.76075
+1984,Toyota,Van 2WD,"Vans, Passenger Type",2-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) CA model,21,11.200714285714286
+1984,Volkswagen,Vanagon 2WD,"Vans, Passenger Type",2-Wheel Drive,Automatic 3-Speed,4.0,1.9,False,Regular,(FFS) CA model,15,15.681
+1984,Volkswagen,Vanagon 2WD,"Vans, Passenger Type",2-Wheel Drive,Manual 4-Speed,4.0,1.9,False,Regular,(FFS) CA model,16,14.7009375
+1985,American Motors Corporation,Eagle 4DR Wagon,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,4.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1985,Aston Martin,Lagonda,Subcompact Cars,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.3,False,Regular,(GUZZLER),8,29.401875
+1985,Aston Martin,Saloon/Vantage/Volante,Subcompact Cars,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.3,False,Regular,(GUZZLER),8,29.401875
+1985,Aston Martin,Saloon/Vantage/Volante,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,8.0,5.3,False,Regular,(GUZZLER),8,29.401875
+1985,Audi,4000s quattro,Subcompact Cars,4-Wheel or All-Wheel Drive,Manual 5-Speed,5.0,2.2,False,Regular,(FFS),18,13.0675
+1985,Audi,5000S,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,5.0,2.1,True,Regular,"(FFS,TRBO)",17,13.836176470588237
+1985,Buick,Century,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,6.0,3.0,False,Regular,(FFS),19,12.379736842105263
+1985,Buick,Century Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,3.0,False,Regular,(FFS),17,13.836176470588237
+1985,Buick,Century Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Diesel,,26,9.04673076923077
+1985,Buick,Century Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.8,False,Regular,(FFS),19,12.379736842105263
+1985,Buick,Electra/Park Avenue,Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Diesel,,23,10.226739130434783
+1985,Buick,LeSabre,Large Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),17,13.836176470588237
+1985,Buick,LeSabre,Large Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),18,13.0675
+1985,Buick,LeSabre/Electra Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),17,13.836176470588237
+1985,Buick,Regal,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS),19,12.379736842105263
+1985,Buick,Riviera,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),17,13.836176470588237
+1985,Buick,Riviera Convertible,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),17,13.836176470588237
+1985,Buick,Skylark,Compact Cars,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Cadillac,Cimarron,Compact Cars,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Cadillac,Cimarron,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),24,9.800625
+1985,Cadillac,Eldorado,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.1,False,Regular,(FFS),17,13.836176470588237
+1985,Cadillac,Fleetwood/DeVille (FWD),Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.1,False,Regular,(FFS),18,13.0675
+1985,Cadillac,Fleetwood/DeVille (FWD),Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Diesel,,23,10.226739130434783
+1985,Cadillac,Seville,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.1,False,Regular,(FFS),17,13.836176470588237
+1985,Chevrolet,C10 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,6.2,False,Diesel,,19,12.379736842105263
+1985,Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV)  (FFS),17,13.836176470588237
+1985,Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(FFS),17,13.836176470588237
+1985,Chevrolet,Caprice Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV)  (FFS),16,14.7009375
+1985,Chevrolet,Cavalier,Compact Cars,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Chevrolet,Cavalier,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),24,9.800625
+1985,Chevrolet,Cavalier Convertible,Subcompact Cars,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Chevrolet,Cavalier Convertible,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),24,9.800625
+1985,Chevrolet,Cavalier Wagon,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Chevrolet,Cavalier Wagon,Small Station Wagons,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Chevrolet,Cavalier Wagon,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),24,9.800625
+1985,Chevrolet,Celebrity,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Diesel,,26,9.04673076923077
+1985,Chevrolet,Celebrity Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Chevrolet,Celebrity Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Diesel,,26,9.04673076923077
+1985,Chevrolet,Citation II,Midsize Cars,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Chevrolet,El Camino Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Regular,(FFS),17,13.836176470588237
+1985,Chevrolet,El Camino Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV)  (FFS),16,14.7009375
+1985,Chevrolet,G10/20 Sport Van 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,,18,13.0675
+1985,Chevrolet,G30 Sport Van 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8),11,21.383181818181814
+1985,Chevrolet,Impala/Caprice,Large Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Regular,(FFS),18,13.0675
+1985,Chevrolet,Monte Carlo,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS),19,12.379736842105263
+1985,Chevrolet,S10 Blazer 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,19,12.379736842105263
+1985,Chevrolet,S10 Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,,19,12.379736842105263
+1985,Chevrolet,Suburban C10 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,CA model,18,13.0675
+1985,Chevrolet,T10 (S10) Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,,17,13.836176470588237
+1985,Chrysler,Laser,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Chrysler,Laser,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Chrysler,LeBaron,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Chrysler,LeBaron,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Chrysler,LeBaron Convertible,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Chrysler,LeBaron Convertible,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Chrysler,LeBaron Convertible,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Chrysler,LeBaron GTS,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Chrysler,LeBaron GTS,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Chrysler,New Yorker,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Chrysler,New Yorker,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Chrysler,Town and Country Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Chrysler,Town and Country Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Dodge,600,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Dodge,600,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Dodge,600,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Dodge,600 Convertible,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS) CA model,21,11.200714285714286
+1985,Dodge,600 Convertible,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO) CA model",19,12.379736842105263
+1985,Dodge,600 Convertible,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS) CA model,19,12.379736842105263
+1985,Dodge,AD100/AD150 Ramcharger 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,13,18.09346153846154
+1985,Dodge,Aries,Midsize Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS),25,9.4086
+1985,Dodge,Aries Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Dodge,Aries Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Dodge,Aries Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS),25,9.4086
+1985,Dodge,B150/B250 Van 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1985,Dodge,B150/B250 Van 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,13,18.09346153846154
+1985,Dodge,B150/B250 Wagon 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS) CA model,13,18.09346153846154
+1985,Dodge,B150/B250 Wagon 2WD,Vans,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,(FFS),13,18.09346153846154
+1985,Dodge,B350 Wagon 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,10,23.5215
+1985,Dodge,Caravan/Ram Van 2WD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1985,Dodge,Caravan/Ram Van 2WD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,CA model,17,13.836176470588237
+1985,Dodge,Charger,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Premium,(FFS) CA model,21,11.200714285714286
+1985,Dodge,Colt,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.6,True,Premium,"(FFS,TRBO)",22,10.691590909090907
+1985,Dodge,Colt,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.5,False,Regular,(FFS) CA model,27,8.711666666666666
+1985,Dodge,Colt,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,True,Premium,"(CALIF)    (FFS,TRBO)",24,9.800625
+1985,Dodge,Colt Vista 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),19,12.379736842105263
+1985,Dodge,Conquest,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.6,True,Premium,"(CALIF)    (FFS,TRBO)",19,12.379736842105263
+1985,Dodge,Conquest,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.6,True,Premium,"(FFS,TRBO)",18,13.0675
+1985,Dodge,Conquest,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.6,True,Premium,"(CALIF)    (FFS,TRBO)",19,12.379736842105263
+1985,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,12,19.60125
+1985,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,6.0,3.7,False,Regular,,15,15.681
+1985,Dodge,D250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,,11,21.383181818181814
+1985,Dodge,Daytona,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS) CA model,21,11.200714285714286
+1985,Dodge,Daytona,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO) CA model",19,12.379736842105263
+1985,Dodge,Daytona,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS) CA model,24,9.800625
+1985,Dodge,Lancer,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Dodge,Lancer,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Dodge,Omni,Compact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.6,False,Regular,(FFS),30,7.8405
+1985,Dodge,Omni,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Premium,(FFS),21,11.200714285714286
+1985,Dodge,Power Ram 50 Pickup 4WD,Small Pickup Trucks,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(CAL)(FFS),17,13.836176470588237
+1985,Dodge,Ram 50 Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),22,10.691590909090907
+1985,Dodge,W100/W150 Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,12,19.60125
+1985,Dodge,W100/W150 Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,,11,21.383181818181814
+1985,Dodge,W250 Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,12,19.60125
+1985,Ford,E150 Econoline 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS),14,16.80107142857143
+1985,Ford,E150 Econoline 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.9,False,Regular,(FFS),16,14.7009375
+1985,Ford,E150 Econoline 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(FFS),12,19.60125
+1985,Ford,E150 Econoline 2WD,Vans,Rear-Wheel Drive,Manual 3-Speed,6.0,4.9,False,Regular,(FFS),16,14.7009375
+1985,Ford,E250 Econoline 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.9,False,Regular,(FFS),13,18.09346153846154
+1985,Ford,Escort,Compact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.6,False,Regular,(CALIF),27,8.711666666666666
+1985,Ford,Escort,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,False,Regular,,26,9.04673076923077
+1985,Ford,Escort,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.9,False,Regular,,27,8.711666666666666
+1985,Ford,Escort Wagon,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,False,Regular,,26,9.04673076923077
+1985,Ford,Escort Wagon,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,1.9,False,Regular,,27,8.711666666666666
+1985,Ford,Escort Wagon,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Diesel,(CALIF),34,6.9180882352941175
+1985,Ford,F150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.9,False,Regular,(FFS),16,14.7009375
+1985,Ford,F150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 3-Speed,6.0,4.9,False,Regular,(FFS),16,14.7009375
+1985,Ford,F150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,16,14.7009375
+1985,Ford,F250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,6.0,4.9,False,Regular,(FFS),14,16.80107142857143
+1985,Ford,F250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.8,False,Regular,,11,21.383181818181814
+1985,Ford,F250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(FFS),12,19.60125
+1985,Ford,F250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(FFS),14,16.80107142857143
+1985,Ford,F250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 3-Speed,6.0,4.9,False,Regular,(FFS),16,14.7009375
+1985,Ford,F250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,6.0,4.9,False,Regular,(FFS) CA model,16,14.7009375
+1985,Ford,LTD,Midsize Cars,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.3,False,Regular,(FFS),20,11.76075
+1985,Ford,LTD,Midsize Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Ford,LTD Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.3,False,Regular,(FFS),20,11.76075
+1985,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 4-Speed,4.0,2.3,False,Regular,(FFS),23,10.226739130434783
+1985,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,True,Regular,"(FFS,TRBO)",19,12.379736842105263
+1985,Ford,Ranger Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(FFS),20,11.76075
+1985,Ford,Ranger Pickup 4WD,Small Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS),23,10.226739130434783
+1985,Ford,Ranger Pickup 4WD,Small Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Ford,Ranger Pickup Cab Chassis,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS) CA model,20,11.76075
+1985,Ford,Thunderbird,Compact Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Ford,Thunderbird,Compact Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,3.8,False,Regular,(FFS),19,12.379736842105263
+1985,Ford,Thunderbird,Compact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,True,Regular,"(FFS,TRBO)",19,12.379736842105263
+1985,GMC,C15 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,6.2,False,Diesel,,19,12.379736842105263
+1985,GMC,C15 Suburban 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,CA model,18,13.0675
+1985,GMC,Caballero Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Regular,(FFS),17,13.836176470588237
+1985,GMC,Caballero Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV)  (FFS),16,14.7009375
+1985,GMC,G15/25 Rally 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,6.2,False,Diesel,CA model,18,13.0675
+1985,GMC,G35 Rally 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS) CA model,11,21.383181818181814
+1985,GMC,S15 Jimmy 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS) CA model,19,12.379736842105263
+1985,GMC,S15 Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,,19,12.379736842105263
+1985,GMC,T15 (S15) Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,,17,13.836176470588237
+1985,Honda,Accord,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.8,False,Regular,(FFS),24,9.800625
+1985,Honda,Accord,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.8,False,Regular,(FFS),22,10.691590909090907
+1985,Honda,Civic,Subcompact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.3,False,Regular,,34,6.9180882352941175
+1985,Honda,Civic CRX,Two Seaters,Front-Wheel Drive,Automatic 3-Speed,4.0,1.5,False,Regular,(FFS),26,9.04673076923077
+1985,Honda,Prelude,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.8,False,Regular,(FFS),24,9.800625
+1985,Isuzu,I-Mark,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,1.8,False,Regular,,23,10.226739130434783
+1985,Isuzu,Impulse,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.0,True,Regular,"(FFS,TRBO)",20,11.76075
+1985,Isuzu,Impulse,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.0,True,Regular,"(FFS,TRBO)",20,11.76075
+1985,Isuzu,Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,,19,12.379736842105263
+1985,Jeep,Cherokee/Wagoneer,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,2.5,False,Regular,(FFS) CA model,17,13.836176470588237
+1985,Jeep,Cherokee/Wagoneer,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.5,False,Regular,(FFS) CA model,18,13.0675
+1985,Jeep,Cherokee/Wagoneer,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,16,14.7009375
+1985,Jeep,Cherokee/Wagoneer,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Manual 5-Speed,4.0,2.5,False,Regular,(FFS) CA model,20,11.76075
+1985,Jeep,Cherokee/Wagoneer,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Regular,(FFS) CA model,17,13.836176470588237
+1985,Jeep,CJ7,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,4.2,False,Regular,(FFS) CA model,17,13.836176470588237
+1985,Jeep,Grand Wagoneer,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,6.0,4.2,False,Regular,(FFS) CA model,14,16.80107142857143
+1985,Jeep,J-10 Pickup Truck,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 4-Speed,6.0,4.2,False,Regular,(FFS),15,15.681
+1985,Jeep,Scrambler,Small Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,4.2,False,Regular,(FFS),17,13.836176470588237
+1985,Maserati,Biturbo,Minicompact Cars,Rear-Wheel Drive,Manual 5-Speed,6.0,2.5,True,Regular,(GUZZLER)  (TURBO),14,16.80107142857143
+1985,Mazda,GLC,Subcompact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.5,False,Regular,(FFS),27,8.711666666666666
+1985,Mazda,RX-7,Two Seaters,Rear-Wheel Drive,Automatic 4-Speed,2.0,1.1,False,Regular,(ROTARY),17,13.836176470588237
+1985,Mazda,RX-7,Two Seaters,Rear-Wheel Drive,Manual 5-Speed,2.0,1.1,False,Regular,(ROTARY),17,13.836176470588237
+1985,Mercedes-Benz,500SE,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GUZZLER)  (FFS),14,16.80107142857143
+1985,Mercedes-Benz,500SEC,Compact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GUZZLER)  (FFS),14,16.80107142857143
+1985,Mercedes-Benz,500SEL,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GUZZLER)  (FFS),14,16.80107142857143
+1985,Mercedes-Benz,500SL,Two Seaters,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GUZZLER)  (FFS),14,16.80107142857143
+1985,Mercury,Capri,Subcompact Cars,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.3,False,Regular,(FFS),20,11.76075
+1985,Mercury,Capri,Subcompact Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Mercury,Capri,Subcompact Cars,Rear-Wheel Drive,Manual 4-Speed,4.0,2.3,False,Regular,(FFS),23,10.226739130434783
+1985,Mercury,Cougar,Compact Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Mercury,Cougar,Compact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,True,Regular,"(FFS,TRBO)",19,12.379736842105263
+1985,Mercury,Lynx,Compact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.6,False,Regular,(CALIF),27,8.711666666666666
+1985,Mercury,Lynx,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.9,False,Regular,,27,8.711666666666666
+1985,Mercury,Lynx,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Diesel,(CALIF),34,6.9180882352941175
+1985,Mercury,Lynx Wagon,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,1.9,False,Regular,,27,8.711666666666666
+1985,Mercury,Marquis,Midsize Cars,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.3,False,Regular,(FFS),20,11.76075
+1985,Mercury,Marquis,Midsize Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Mercury,Marquis Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),18,13.0675
+1985,Mercury,Topaz,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.3,False,Regular,(FFS),23,10.226739130434783
+1985,Mitsubishi,Cordia,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS),22,10.691590909090907
+1985,Mitsubishi,Cordia,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.8,True,Premium,"(CALIF)    (FFS,TRBO)",23,10.226739130434783
+1985,Mitsubishi,Galant,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.4,False,Regular,(FFS),21,11.200714285714286
+1985,Mitsubishi,Mirage,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.5,False,Regular,(FFS),27,8.711666666666666
+1985,Mitsubishi,Mirage,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.6,True,Premium,"(CALIF)    (FFS,TRBO)",22,10.691590909090907
+1985,Mitsubishi,Mirage,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,True,Premium,"(FFS,TRBO)",24,9.800625
+1985,Mitsubishi,Montero 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,(FFS),17,13.836176470588237
+1985,Mitsubishi,Starion,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.6,True,Premium,"(CALIF)    (FFS,TRBO)",19,12.379736842105263
+1985,Mitsubishi,Starion,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.6,True,Premium,"(CALIF)    (FFS,TRBO)",18,13.0675
+1985,Mitsubishi,Starion,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.6,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Mitsubishi,Tredia,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS),22,10.691590909090907
+1985,Mitsubishi,Tredia,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.8,True,Premium,"(CALIF)    (FFS,TRBO)",23,10.226739130434783
+1985,Mitsubishi,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(CAL)(FFS),19,12.379736842105263
+1985,Mitsubishi,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),22,10.691590909090907
+1985,Mitsubishi,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.6,False,Regular,(CAL)(FFS),20,11.76075
+1985,Nissan,300ZX,Two Seaters,Rear-Wheel Drive,Automatic 4-Speed,6.0,3.0,True,Regular,"(FFS,TRBO)",17,13.836176470588237
+1985,Nissan,Maxima,Compact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,(FFS),19,12.379736842105263
+1985,Nissan,Pulsar/Pulsar-NX,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,False,Regular,(FFS),29,8.110862068965517
+1985,Nissan,Sentra,Subcompact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.7,False,Diesel,,40,5.880375
+1985,Nissan,Sentra,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,False,Regular,(FFS),29,8.110862068965517
+1985,Nissan,Sentra Wagon,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,False,Regular,(FFS),29,8.110862068965517
+1985,Nissan,Stanza,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),26,9.04673076923077
+1985,Nissan,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.4,False,Regular,(FFS),19,12.379736842105263
+1985,Oldsmobile,Custom Cruiser Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),17,13.836176470588237
+1985,Oldsmobile,Cutlass Ciera,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,6.0,3.0,False,Regular,(FFS),19,12.379736842105263
+1985,Oldsmobile,Cutlass Cruiser Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,3.0,False,Regular,(FFS),17,13.836176470588237
+1985,Oldsmobile,Cutlass Cruiser Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Diesel,,26,9.04673076923077
+1985,Oldsmobile,Cutlass Cruiser Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.8,False,Regular,(FFS),19,12.379736842105263
+1985,Oldsmobile,Cutlass Supreme,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),18,13.0675
+1985,Oldsmobile,Delta 88 Royale,Large Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,3.8,False,Regular,(FFS),17,13.836176470588237
+1985,Oldsmobile,Delta 88 Royale,Large Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),18,13.0675
+1985,Oldsmobile,Firenza,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Oldsmobile,Firenza,Compact Cars,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Oldsmobile,Firenza Cruiser Wagon,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Oldsmobile,Firenza Cruiser Wagon,Small Station Wagons,Front-Wheel Drive,Manual 4-Speed,6.0,2.8,False,Regular,(FFS),18,13.0675
+1985,Oldsmobile,Ninety-Eight Regency,Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Diesel,,23,10.226739130434783
+1985,Oldsmobile,Toronado,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-OLDS)  (FFS),17,13.836176470588237
+1985,Plymouth,Caravelle,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Plymouth,Caravelle,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Plymouth,Caravelle,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Plymouth,Colt,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.6,True,Premium,"(CALIF)    (FFS,TRBO)",22,10.691590909090907
+1985,Plymouth,Colt,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.6,True,Premium,"(CALIF)    (FFS,TRBO)",24,9.800625
+1985,Plymouth,Colt Vista 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS),19,12.379736842105263
+1985,Plymouth,Conquest,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.6,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Plymouth,Conquest,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.6,True,Premium,"(CALIF)    (FFS,TRBO)",18,13.0675
+1985,Plymouth,Conquest,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.6,True,Premium,"(FFS,TRBO)",19,12.379736842105263
+1985,Plymouth,Horizon,Compact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.6,False,Regular,(FFS),30,7.8405
+1985,Plymouth,Reliant,Midsize Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS),25,9.4086
+1985,Plymouth,Reliant Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1985,Plymouth,Reliant Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,(FFS),19,12.379736842105263
+1985,Plymouth,Reliant Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS),25,9.4086
+1985,Plymouth,Turismo,Subcompact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.6,False,Regular,(FFS),30,7.8405
+1985,Plymouth,Turismo,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Premium,(FFS),21,11.200714285714286
+1985,Plymouth,Voyager 2WD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Automatic 3-Speed,4.0,2.6,False,Regular,CA model,17,13.836176470588237
+1985,Pontiac,6000,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Pontiac,6000,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Diesel,,26,9.04673076923077
+1985,Pontiac,6000 Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Pontiac,6000 Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Diesel,,26,9.04673076923077
+1985,Pontiac,Firebird,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(FFS),19,12.379736842105263
+1985,Pontiac,Firebird,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV)  (FFS),17,13.836176470588237
+1985,Pontiac,Firebird,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(FFS),17,13.836176470588237
+1985,Pontiac,Parisienne,Large Cars,Rear-Wheel Drive,Automatic 3-Speed,6.0,4.3,False,Regular,(FFS),18,13.0675
+1985,Pontiac,Parisienne Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(GM-CHEV)  (FFS),16,14.7009375
+1985,Subaru,Brat 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,False,Regular,(FFS) CA model,20,11.76075
+1985,Subaru,Hatchback,Subcompact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.8,False,Regular,(FFS),22,10.691590909090907
+1985,Subaru,Hatchback,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.8,False,Regular,(FFS),25,9.4086
+1985,Subaru,Sedan,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.8,False,Regular,(FFS),24,9.800625
+1985,Subaru,Sedan 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,True,Regular,"(FFS,TRBO) CA model",20,11.76075
+1985,Subaru,Wagon,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,1.8,False,Regular,(FFS),23,10.226739130434783
+1985,Subaru,Wagon 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,False,Regular,(FFS) CA model,21,11.200714285714286
+1985,Subaru,Wagon 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,True,Regular,"(FFS,TRBO) CA model",20,11.76075
+1985,Subaru,XT 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.8,True,Regular,"(FFS,TRBO) CA model",20,11.76075
+1985,Toyota,Corolla,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,1.6,False,Regular,(FFS),26,9.04673076923077
+1985,Toyota,Corolla Sport,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,1.6,False,Regular,(FFS),26,9.04673076923077
+1985,Toyota,Tercel,Subcompact Cars,Front-Wheel Drive,Manual 4-Speed,4.0,1.5,False,Regular,(FFS),32,7.35046875
+1985,Toyota,Tercel,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.5,False,Regular,(FFS),29,8.110862068965517
+1985,Toyota,Tercel Wagon 2WD,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,1.5,False,Regular,(FFS),26,9.04673076923077
+1985,Toyota,Tercel Wagon 2WD,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,1.5,False,Regular,(FFS),29,8.110862068965517
+1985,Toyota,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.4,False,Regular,,20,11.76075
+1985,Toyota,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,(FFS),22,10.691590909090907
+1985,Volvo,240 DL/GL/turbo,Compact Cars,Rear-Wheel Drive,Manual 4-Speed,4.0,2.1,True,Regular,"(FFS,TRBO)",17,13.836176470588237
+1985,Volvo,240 DL/GL/turbo Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Manual 4-Speed,4.0,2.1,True,Regular,"(FFS,TRBO)",17,13.836176470588237
+1986,Chevrolet,C10 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(305)      (FFS),15,15.681
+1986,Chevrolet,Celebrity Wagon,Midsize-Large Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(FFS) Fuel Injection,19,12.379736842105263
+1986,Chevrolet,G10/20 Sport Van 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8),13,18.09346153846154
+1986,Chevrolet,G10/20 Van 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,-305,15,15.681
+1986,Chevrolet,G30 Sport Van 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8),11,21.383181818181814
+1986,Chevrolet,K10 Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS),15,15.681
+1986,Chevrolet,Suburban C10 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8),13,18.09346153846154
+1986,Chevrolet,Suburban K10 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS),12,19.60125
+1986,Dodge,AD100/AD150 Ramcharger 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,13,18.09346153846154
+1986,Dodge,AW100/AW150 Ramcharger 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,11,21.383181818181814
+1986,Dodge,B150/B250 Van 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,13,18.09346153846154
+1986,Dodge,B150/B250 Wagon 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1986,Dodge,B350 Wagon 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,12,19.60125
+1986,Dodge,Caravan/Ram Van 2WD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS),21,11.200714285714286
+1986,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS),13,18.09346153846154
+1986,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,,12,19.60125
+1986,Dodge,D250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1986,Dodge,W100/W150 Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1986,GMC,C15 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(305)      (FFS),15,15.681
+1986,GMC,C15 Suburban 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8),13,18.09346153846154
+1986,GMC,G15/25 Rally 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8),13,18.09346153846154
+1986,GMC,G15/25 Vandura 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,-305,15,15.681
+1986,GMC,G35 Rally 2WD,Vans,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8),11,21.383181818181814
+1986,GMC,K15 Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,,15,15.681
+1986,GMC,K15 Suburban 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 4-Speed,8.0,5.7,False,Regular,(350 V8) (FFS),12,19.60125
+1986,Isuzu,Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.3,False,Regular,,20,11.76075
+1986,Isuzu,Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,,21,11.200714285714286
+1986,Isuzu,Pickup 4WD,Small Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS),19,12.379736842105263
+1986,Isuzu,Trooper,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS),17,13.836176470588237
+1986,Plymouth,Voyager 2WD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,,21,11.200714285714286
+1986,Subaru,Brat 4WD,Small Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,1.8,False,Regular,(OHV)      (FFS),23,10.226739130434783
+1986,Subaru,Hatchback 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,1.8,False,Regular,(OHV),23,10.226739130434783
+1986,Toyota,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.4,False,Regular,(FFS),20,11.76075
+1986,Toyota,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,(FFS),21,11.200714285714286
+1987,Buick,Skyhawk Wagon,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(122)      (FFS),24,9.800625
+1987,Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(FFS) fuel injection,18,13.0675
+1987,Chevrolet,Camaro,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,8.0,5.0,False,Regular,(FFS) fuel injection,18,13.0675
+1987,Dodge,AD100/AD150 Ramcharger 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1987,Dodge,Aries,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.5,False,Regular,(POLICE)   (FFS),21,11.200714285714286
+1987,Dodge,AW100/AW150 Ramcharger 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,11,21.383181818181814
+1987,Dodge,B150/B250 Van 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,12,19.60125
+1987,Dodge,B150/B250 Van 2WD,Vans,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,,13,18.09346153846154
+1987,Dodge,B150/B250 Wagon 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,12,19.60125
+1987,Dodge,B150/B250 Wagon 2WD,Vans,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,,13,18.09346153846154
+1987,Dodge,B350 Van 2WD,Vans,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1987,Dodge,Colt Vista,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,21,11.200714285714286
+1987,Dodge,Colt Vista,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,23,10.226739130434783
+1987,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS),13,18.09346153846154
+1987,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,Lock-up,13,18.09346153846154
+1987,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,,13,18.09346153846154
+1987,Dodge,D100/D150 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1987,Dodge,D250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1987,Dodge,D250 Pickup 2WD,Standard Pickup Trucks,Rear-Wheel Drive,Manual 4-Speed,8.0,5.2,False,Regular,(FFS),12,19.60125
+1987,Dodge,Shadow,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,(FFS),22,10.691590909090907
+1987,Dodge,Shadow,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,(TURBO),19,12.379736842105263
+1987,Dodge,Shadow,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,(FFS),25,9.4086
+1987,Dodge,W100/W150 Pickup 4WD,Standard Pickup Trucks,4-Wheel or All-Wheel Drive,Automatic 3-Speed,8.0,5.2,False,Regular,,12,19.60125
+1987,Honda,Accord,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,23,10.226739130434783
+1987,Isuzu,Pickup 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS),21,11.200714285714286
+1987,Mitsubishi,Space Wagon,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,21,11.200714285714286
+1987,Plymouth,Colt Vista,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,21,11.200714285714286
+1987,Plymouth,Colt Vista,Small Station Wagons,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,23,10.226739130434783
+1987,Plymouth,Reliant,Midsize Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.5,False,Regular,(FFS),21,11.200714285714286
+1987,Plymouth,Sundance,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,True,Premium,(TURBO),19,12.379736842105263
+1987,Plymouth,Sundance,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.2,False,Regular,,22,10.691590909090907
+1987,Plymouth,Sundance,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,,25,9.4086
+1987,Plymouth,Voyager/Grand Voyager 2WD,Special Purpose Vehicle 2WD,Front-Wheel Drive,Manual 5-Speed,4.0,2.2,False,Regular,,21,11.200714285714286
+1987,Pontiac,Firebird/Trans Am/Formula,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,5.0,False,Regular,(FFS),18,13.0675
+1987,Pontiac,Firebird/Trans Am/Formula,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,8.0,5.0,False,Regular,(FFS) fuel injection,18,13.0675
+1987,Porsche,944,Minicompact Cars,Rear-Wheel Drive,Automatic 3-Speed,4.0,2.5,False,Regular,(FFS) fuel injection,19,12.379736842105263
+1987,Saab,900,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,B201       (FFS),18,13.0675
+1987,Subaru,Brat 4WD,Small Pickup Trucks,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,1.8,False,Regular,(OHV),23,10.226739130434783
+1987,Subaru,Hatchback 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 4-Speed,4.0,1.8,False,Regular,(OHV),23,10.226739130434783
+1987,Subaru,XT,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.8,True,Regular,"(B-ENGINE) (FFS,TRBO)",23,10.226739130434783
+1987,Subaru,XT,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.8,False,Regular,(C-ENGINE) (FFS)      (MPFI),25,9.4086
+1987,Subaru,XT-DL,Two Seaters,Front-Wheel Drive,Manual 5-Speed,4.0,1.8,False,Regular,(FFS)      (MPFI),25,9.4086
+1987,Toyota,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.4,False,Regular,(FFS) fuel injection,21,11.200714285714286
+1987,Toyota,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,,21,11.200714285714286
+1987,Volvo,740/760,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,2.8,False,Regular,(VOLVO760) (FFS),17,13.836176470588237
+1988,Buick,Skyhawk,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS),25,9.4086
+1988,Honda,Prelude,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(16 VALVE) (FFS)      (MPFI),22,10.691590909090907
+1988,Oldsmobile,Firenza,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS),25,9.4086
+1988,Oldsmobile,Firenza Cruiser,Small Station Wagons,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(FFS),25,9.4086
+1988,Saab,900,Compact Cars,Front-Wheel Drive,Automatic 3-Speed,4.0,2.0,False,Regular,(B201)     (FFS),18,13.0675
+1988,Saab,900,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(B201)     (FFS),21,11.200714285714286
+1988,Toyota,Truck 2WD,Small Pickup Trucks,Rear-Wheel Drive,Manual 5-Speed,4.0,2.4,False,Regular,,20,11.76075
+1989,Chrysler,TC By,Two Seaters,Front-Wheel Drive,Automatic 3-Speed,4.0,2.5,True,Premium,"(FFS,TRBO)",17,13.836176470588237
+1989,Honda,Prelude,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,20,11.76075
+1989,Lotus,Esprit Turbo,Two Seaters,Rear-Wheel Drive,Manual 5-Speed,4.0,2.2,True,Premium,"(GMP4)     (FFS,TRBO) (MPFI)",19,12.379736842105263
+1989,Peugeot,405 Sedan,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.9,False,Regular,CALIF. ECS (FFS)      (MPFI),19,12.379736842105263
+1989,Peugeot,405 Sedan,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.9,False,Premium,"16-V, CAL. (FFS)      (MPFI)",20,11.76075
+1989,Peugeot,405 Sedan,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.9,False,Regular,CALIF. ECS (FFS)      (MPFI),20,11.76075
+1989,Volvo,740,Midsize Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(EGR)      (FFS),21,11.200714285714286
+1989,Volvo,240 DL/240 GL,Compact Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(EGR)      (FFS),19,12.379736842105263
+1989,Volvo,240 DL/240 GL,Compact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(EGR)      (FFS),21,11.200714285714286
+1989,Volvo,740 Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(EGR)      (FFS),19,12.379736842105263
+1990,Honda,Prelude,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,22,10.691590909090907
+1990,Mazda,929,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,JED        (FFS),18,13.0675
+1990,Mazda,B2200/B2600i,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.2,False,Regular,(FFS) fuel injection,20,11.76075
+1990,Subaru,Justy,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,3.0,1.2,False,Regular,(FFS)      (MPFI),30,7.8405
+1990,Volvo,240,Compact Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(FFS),19,12.379736842105263
+1990,Volvo,240,Compact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(LH-3.1) (FFS),21,11.200714285714286
+1990,Volvo,240,Compact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS),21,11.200714285714286
+1990,Volvo,740,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(FFS),20,11.76075
+1990,Volvo,240 Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(EGR) (FFS),19,12.379736842105263
+1990,Volvo,240 Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(FFS),19,12.379736842105263
+1990,Volvo,240 Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,(FFS) BOSCH,21,11.200714285714286
+1990,Volvo,740 Wagon,Midsize-Large Station Wagons,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(FFS),20,11.76075
+1991,BMW,318is,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,4.0,1.8,False,Premium,(FFS),21,11.200714285714286
+1991,Honda,Prelude,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,(FFS) fuel injection,22,10.691590909090907
+1991,Import Trade Services,ITS 520,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,2.5,False,Premium,(GUZZLER)  (FFS),15,15.681
+1991,Mazda,929,Midsize Cars,Rear-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,JED        (FFS),18,13.0675
+1991,Mazda,B2200/B2600i,Standard Pickup Trucks,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.2,False,Regular,(FFS) fuel injection,20,11.76075
+1991,Subaru,Justy,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,3.0,1.2,False,Regular,(FFS)      (MPFI),30,7.8405
+1992,Chevrolet,Astro 2WD (cargo),Vans,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (MPFI),17,13.836176470588237
+1992,Chevrolet,Astro 2WD (passenger),Vans,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (SPFI),16,14.7009375
+1992,Chevrolet,Astro AWD (passenger),Vans,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (SPFI),15,15.681
+1992,Chevrolet,S10 Blazer 2WD,Special Purpose Vehicles,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (MPFI),17,13.836176470588237
+1992,GMC,Jimmy 2WD,Special Purpose Vehicles,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (MPFI),17,13.836176470588237
+1992,GMC,Safari 2WD (cargo),Vans,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (SPFI),17,13.836176470588237
+1992,GMC,Safari 2WD (passenger),Vans,Rear-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (SPFI),16,14.7009375
+1992,GMC,Safari AWD (passenger),Vans,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,4.3,False,Regular,(FFS)      (SPFI),15,15.681
+1992,Isuzu,Trooper,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,3.2,False,Regular,(SOHC)     (FFS),15,15.681
+1992,Isuzu,Trooper,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,3.2,False,Regular,(SOHC)     (FFS),15,15.681
+1992,Mitsubishi,Galant,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,DOHC       (FFS),21,11.200714285714286
+1992,Nissan,Maxima,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Premium,(FFS) SOHC,19,12.379736842105263
+1992,Subaru,Justy,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,3.0,1.2,False,Regular,(FFS)      (MPFI),30,7.8405
+1993,Isuzu,Trooper,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,3.2,False,Regular,(SOHC)     (FFS),15,15.681
+1993,Mazda,323,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.6,False,Regular,4VALVE     (FFS),25,9.4086
+1993,Mitsubishi,Diamante,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Premium,SOHC       (FFS),18,13.0675
+1993,Nissan,Maxima,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Premium,(FFS) SOHC,19,12.379736842105263
+1994,Dodge,Stealth,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,SOHC       (FFS),18,13.0675
+1994,Dodge,Stealth,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,DOHC       (FFS),19,12.379736842105263
+1994,Geo,Tracker Convertible 2WD,Special Purpose Vehicles,Rear-Wheel Drive,Automatic 3-Speed,4.0,1.6,False,Regular,(FFS),21,11.200714285714286
+1994,Geo,Tracker Convertible 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.6,False,Regular,(FFS),21,11.200714285714286
+1994,Geo,Tracker Van 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.6,False,Regular,(FFS),21,11.200714285714286
+1994,Isuzu,Trooper,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,3.2,False,Regular,(SOHC)     (FFS),15,15.681
+1994,Mazda,323,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.6,False,Regular,4 VALVES   (FFS),25,9.4086
+1994,Mitsubishi,Diamante,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Premium,(SOHC)     (FFS),18,13.0675
+1994,Nissan,Maxima,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Premium,(FFS) DOHC,19,12.379736842105263
+1994,Oldsmobile,Achieva,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,(FFS)      (MPFI),22,10.691590909090907
+1994,Suzuki,Sidekick 2Door 2WD,Special Purpose Vehicles,Rear-Wheel Drive,Automatic 3-Speed,4.0,1.6,False,Regular,(FFS),21,11.200714285714286
+1994,Suzuki,Sidekick 2Door 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 3-Speed,4.0,1.6,False,Regular,(FFS),21,11.200714285714286
+1995,Dodge,Stealth,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,DOHC       (FFS),18,13.0675
+1995,Dodge,Stealth,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,DOHC       (FFS),19,12.379736842105263
+1995,Mitsubishi,Diamante,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Premium,DOHC       (FFS),19,12.379736842105263
+1995,Mitsubishi,Montero,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,V6-SOHC-2  (FFS),15,15.681
+1995,Mitsubishi,Montero,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,V6-SOHC-4  (FFS),15,15.681
+1995,Toyota,Previa All-Trac,Vans,4-Wheel or All-Wheel Drive,Automatic 4-Speed,4.0,2.4,False,Regular,(FFS)      (S-CHARGE),17,13.836176470588237
+1996,Ford,Taurus,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,(FFS),21,11.200714285714286
+1996,Mercury,Sable,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,(FFS),21,11.200714285714286
+1996,Mitsubishi,Montero,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,V6-SOHC-2  (FFS),15,15.681
+1996,Mitsubishi,Montero,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,V6-SOHC-4  (FFS),15,15.681
+1997,Ford,Explorer 4WD,Special Purpose Vehicles,4-Wheel or All-Wheel Drive,Automatic 5-Speed,6.0,4.0,False,Regular,(FFS),15,15.681
+1997,Honda,Del Sol,Two Seaters,Front-Wheel Drive,Automatic 4-Speed,4.0,1.6,False,Regular,VTEC       (FFS),27,8.711666666666666
+1997,Hyundai,Elantra,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.8,False,Regular,(FFS) (MPFI),23,10.226739130434783
+1997,Mitsubishi,3000 GT,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,DOHC-4     (FFS),18,13.0675
+1997,Mitsubishi,3000 GT,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,SOHC-2     (FFS),19,12.379736842105263
+1997,Saab,9000,Large Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.3,True,Regular,"B234L/R4   (FFS,TRBO)",18,13.0675
+1997,Saab,9000,Large Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.3,True,Regular,"B234E4     (FFS,TRBO)",21,11.200714285714286
+1998,Ford,Explorer 2WD,Special Purpose Vehicle 2WD,Rear-Wheel Drive,Automatic 5-Speed,6.0,4.0,False,Regular,SOHC,16,14.7009375
+1998,Ford,Explorer 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 5-Speed,6.0,4.0,False,Regular,SOHC,15,15.681
+1998,Ford,Taurus,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,MFFV-GAS,19,12.379736842105263
+1998,Ford,Taurus,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,2V,20,11.76075
+1998,Honda,Accord,Midsize Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,SOHC-VTEC,24,9.800625
+1998,Mitsubishi,3000 GT,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,DOHC,18,13.0675
+1998,Mitsubishi,3000 GT,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,DOHC,19,12.379736842105263
+1999,Chrysler,Town and Country 2WD,Minivan - 2WD,Front-Wheel Drive,Automatic 4-Speed,6.0,3.3,False,Regular,FFV,18,13.0675
+1999,Dodge,Caravan/Grand Caravan 2WD,Minivan - 2WD,Front-Wheel Drive,Automatic 4-Speed,6.0,3.3,False,Regular,FFV,18,13.0675
+1999,Ford,Explorer 2WD,Sport Utility Vehicle - 2WD,Rear-Wheel Drive,Automatic 5-Speed,6.0,4.0,False,Regular,SOHC,16,14.7009375
+1999,Ford,Explorer 4WD,Sport Utility Vehicle - 4WD,4-Wheel or All-Wheel Drive,Automatic 5-Speed,6.0,4.0,False,Regular,SOHC,15,15.681
+1999,Ford,Taurus,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,FFV,20,11.76075
+1999,Ford,Taurus Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,2V,19,12.379736842105263
+1999,Honda,Accord,Midsize Cars,Front-Wheel Drive,Manual 5-Speed,4.0,2.3,False,Regular,VTEC,24,9.800625
+1999,Honda,Civic,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.6,False,Regular,SOHC-VTEC,27,8.711666666666666
+1999,Honda,CR-V 4WD,Sport Utility Vehicle - 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,FFS,21,11.200714285714286
+1999,Honda,CR-V 4WD,Sport Utility Vehicle - 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,4.0,2.0,False,Regular,FFS,21,11.200714285714286
+1999,Infiniti,QX4 4WD,Sport Utility Vehicle - 4WD,4-Wheel or All-Wheel Drive,Automatic 4-Speed,6.0,3.3,False,Regular,FFS,15,15.681
+1999,Mitsubishi,3000 GT,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,DOHC,18,13.0675
+1999,Mitsubishi,3000 GT,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,DOHC,19,12.379736842105263
+1999,Plymouth,Voyager/Grand Voyager 2WD,Minivan - 2WD,Front-Wheel Drive,Automatic 4-Speed,6.0,3.3,False,Regular,FFV,18,13.0675
+1999,Saturn,SW,Small Station Wagons,Front-Wheel Drive,Automatic 4-Speed,4.0,1.9,False,Regular,DOHC,26,9.04673076923077
+1999,Volkswagen,Passat,Midsize Cars,Front-Wheel Drive,Automatic 5-Speed,6.0,2.8,False,Premium,FFS,19,12.379736842105263
+1999,Volkswagen,Passat,Midsize Cars,Front-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Premium,FFS,21,11.200714285714286
+1999,Volkswagen,Passat Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 5-Speed,6.0,2.8,False,Premium,FFS,19,12.379736842105263
+1999,Volkswagen,Passat Wagon,Midsize Station Wagons,Front-Wheel Drive,Manual 5-Speed,6.0,2.8,False,Premium,FFS,21,11.200714285714286
+2000,Chevrolet,S10 Pickup 2WD,Small Pickup Trucks 2WD,Rear-Wheel Drive,Automatic 4-Speed,4.0,2.2,False,Regular,Flex Fuel (E85),19,12.379736842105263
+2000,Ford,Explorer 2WD,Sport Utility Vehicle - 2WD,Rear-Wheel Drive,Automatic 5-Speed,6.0,4.0,False,Regular,SOHC,16,14.7009375
+2000,Ford,Taurus,Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,3.0L 2V,20,11.76075
+2000,Honda,Civic,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.6,False,Regular,,27,8.711666666666666
+2000,Lincoln,LS,Midsize Cars,Rear-Wheel Drive,Automatic 5-Speed,6.0,3.0,False,Premium,SELECT SFT,18,13.0675
+2000,Lincoln,LS,Midsize Cars,Rear-Wheel Drive,Automatic 5-Speed,8.0,3.9,False,Premium,3.9L4V-N,17,13.836176470588237
+2000,Mercury,Sable,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,3.0L 2V,20,11.76075
+2001,Ford,Taurus Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,,19,12.379736842105263
+2001,Honda,Accord,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,,23,10.226739130434783
+2001,Honda,Civic,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.7,False,Regular,,29,8.110862068965517
+2001,Mercury,Sable Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,,19,12.379736842105263
+2001,Saturn,SC,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.9,False,Regular,DOHC,26,9.04673076923077
+2001,Saturn,SW,Small Station Wagons,Front-Wheel Drive,Automatic 4-Speed,4.0,1.9,False,Regular,DOHC,26,9.04673076923077
+2002,Chevrolet,Cavalier,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.2,False,Regular,4 VALVE,24,9.800625
+2002,Chevrolet,Impala,Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.8,False,Regular,,20,11.76075
+2002,Chrysler,Sebring,Compact Cars,Front-Wheel Drive,Automatic (S4),6.0,3.0,False,Regular,SOHC FFS,20,11.76075
+2002,Chrysler,Sebring,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,SOHC FFS,20,11.76075
+2002,Chrysler,Sebring,Compact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,SOHC FFS,21,11.200714285714286
+2002,Dodge,Stratus,Compact Cars,Front-Wheel Drive,Automatic (S4),6.0,3.0,False,Regular,SOHC FFS,20,11.76075
+2002,Dodge,Stratus,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,SOHC FFS,20,11.76075
+2002,Dodge,Stratus,Compact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Regular,SOHC FFS,21,11.200714285714286
+2002,Ford,Focus,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,,25,9.4086
+2002,Ford,Focus Station Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,,25,9.4086
+2002,Honda,Accord,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.3,False,Regular,SOHC-VTEC,23,10.226739130434783
+2002,Pontiac,Sunfire,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.2,False,Regular,4 VALVE,24,9.800625
+2002,Saturn,SC,Subcompact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.9,False,Regular,DOHC,26,9.04673076923077
+2003,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,4 VALVE,18,13.0675
+2003,Ford,Taurus,Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4-VALVE,21,11.200714285714286
+2003,Ford,Taurus Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4-VALVE,19,12.379736842105263
+2003,Ford,Thunderbird,Two Seaters,Rear-Wheel Drive,Automatic 5-Speed,8.0,3.9,False,Premium,SPORT,18,13.0675
+2003,Honda,Civic,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,1.7,False,Regular,VTEC,29,8.110862068965517
+2003,Honda,Civic,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.7,False,Regular,VTEC,30,7.8405
+2003,Hyundai,Elantra,Compact Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,FFS,25,9.4086
+2003,Lincoln,LS,Midsize Cars,Rear-Wheel Drive,Automatic 5-Speed,8.0,3.9,False,Premium,SST,18,13.0675
+2003,Mercury,Sable,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4-VALVE,21,11.200714285714286
+2003,Mercury,Sable Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4-VALVE,19,12.379736842105263
+2004,Cadillac,DeVille,Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,STS/DTS,19,12.379736842105263
+2004,Cadillac,Seville,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,STS/DTS,19,12.379736842105263
+2004,Ford,Mustang,Subcompact Cars,Rear-Wheel Drive,Manual 5-Speed,8.0,4.6,False,Regular,4 VALVE,18,13.0675
+2004,Ford,Taurus,Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,2-VALVE,20,11.76075
+2004,Honda,Civic,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.7,False,Regular,VTEC,30,7.8405
+2004,Mercury,Sable,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4-VALVE,20,11.76075
+2004,Mitsubishi,Eclipse,Subcompact Cars,Front-Wheel Drive,Automatic (S4),6.0,3.0,False,Premium,SOHC,21,11.200714285714286
+2004,Mitsubishi,Eclipse,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Premium,SOHC,21,11.200714285714286
+2004,Mitsubishi,Eclipse Spyder,Minicompact Cars,Front-Wheel Drive,Automatic (S4),6.0,3.0,False,Premium,SOHC,21,11.200714285714286
+2004,Mitsubishi,Eclipse Spyder,Minicompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Premium,SOHC,21,11.200714285714286
+2004,Saab,9-5 Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic (S5),4.0,2.3,True,Regular,LPT,20,11.76075
+2005,Ford,Taurus,Large Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4V,20,11.76075
+2005,Ford,Taurus Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4V,19,12.379736842105263
+2005,Honda,Civic,Compact Cars,Front-Wheel Drive,Manual 5-Speed,4.0,1.7,False,Regular,VTEC,30,7.8405
+2005,Mercury,Sable,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4V,20,11.76075
+2005,Mercury,Sable Wagon,Midsize Station Wagons,Front-Wheel Drive,Automatic 4-Speed,6.0,3.0,False,Regular,4V,19,12.379736842105263
+2005,Mitsubishi,Eclipse,Subcompact Cars,Front-Wheel Drive,Automatic (S4),6.0,3.0,False,Premium,SOHC-VIS,21,11.200714285714286
+2005,Mitsubishi,Eclipse,Subcompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Premium,SOHC-VIS,21,11.200714285714286
+2005,Mitsubishi,Eclipse Spyder,Minicompact Cars,Front-Wheel Drive,Manual 5-Speed,6.0,3.0,False,Premium,SOHC-VIS,21,11.200714285714286
+2005,Nissan,350z,Two Seaters,Rear-Wheel Drive,Manual 6-Speed,6.0,3.5,False,Premium,DVVT,20,11.76075
+2005,Porsche,Carrera 2 Cabriolet,Minicompact Cars,Rear-Wheel Drive,Automatic 5-Speed,6.0,3.6,False,Premium,,19,12.379736842105263
+2005,Porsche,Carrera 2 Cabriolet,Minicompact Cars,Rear-Wheel Drive,Manual 6-Speed,6.0,3.6,False,Premium,new body style,19,12.379736842105263
+2005,Porsche,Carrera 2 Coupe,Minicompact Cars,Rear-Wheel Drive,Automatic 5-Speed,6.0,3.6,False,Premium,,19,12.379736842105263
+2005,Porsche,Carrera 2 Coupe,Minicompact Cars,Rear-Wheel Drive,Manual 6-Speed,6.0,3.6,False,Premium,new body style,19,12.379736842105263
+2006,Cadillac,DTS,Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,300 HP,18,13.0675
+2006,Dodge,Magnum AWD,Sport Utility Vehicle - 4WD,4-Wheel or All-Wheel Drive,Automatic 5-Speed,6.0,3.5,False,Regular,FFS,18,13.0675
+2006,Hyundai,Elantra,Midsize Cars,Front-Wheel Drive,Automatic 4-Speed,4.0,2.0,False,Regular,FFS,24,9.800625
+2007,Cadillac,DTS,Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,300 HP,18,13.0675
+2008,Buick,Lucerne,Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,300HP,18,13.0675
+2008,Cadillac,CTS,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,6.0,3.6,False,Regular,Direct Injection,19,12.379736842105263
+2008,Cadillac,CTS AWD,Midsize Cars,4-Wheel or All-Wheel Drive,Automatic (S6),6.0,3.6,False,Regular,Direct Injection,20,11.76075
+2008,Cadillac,DTS,Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,300HP,18,13.0675
+2009,Cadillac,CTS,Midsize Cars,Rear-Wheel Drive,Manual 6-Speed,6.0,3.6,False,Regular,255HP,19,12.379736842105263
+2009,Cadillac,CTS AWD,Midsize Cars,4-Wheel or All-Wheel Drive,Automatic (S6),6.0,3.6,False,Regular,255HP,20,11.76075
+2009,Cadillac,DTS,Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,300HP,18,13.0675
+2010,Cadillac,DTS,Large Cars,Front-Wheel Drive,Automatic 4-Speed,8.0,4.6,False,Regular,275HP,18,13.0675
+2011,Ferrari,California,Minicompact Cars,Rear-Wheel Drive,Auto(AM7),8.0,4.3,False,Premium,SIDI; with Stop-Start option,15,15.681
+2012,Ferrari,458 Italia Coupe,Two Seaters,Rear-Wheel Drive,Auto(AM7),8.0,4.5,False,Premium,SIDI; with Stop-Start option,14,16.80107142857143
+2012,Ferrari,458 Italia Spider,Two Seaters,Rear-Wheel Drive,Auto(AM7),8.0,4.5,False,Premium,SIDI; with Stop-Start option,14,16.80107142857143
+2012,Ferrari,California,Two Seaters,Rear-Wheel Drive,Auto(AM7),8.0,4.3,False,Premium,SIDI; with Stop-Start option,15,15.681
+2012,Ferrari,FF,Midsize Cars,Part-time 4-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start option,13,18.09346153846154
+2012,Kia,Sorento 2WD,Sport Utility Vehicle - 2WD,Front-Wheel Drive,Automatic 6-Speed,4.0,2.4,False,Regular,,24,9.800625
+2013,Ferrari,California,Minicompact Cars,Rear-Wheel Drive,Auto(AM7),8.0,4.3,False,Premium,SIDI; with Stop-Start Option,16,14.7009375
+2013,Ferrari,F12,Two Seaters,Rear-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start Option,13,18.09346153846154
+2013,Ferrari,FF,Midsize Cars,Part-time 4-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start Option,13,18.09346153846154
+2013,Ford,Edge AWD,Small Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S6),6.0,3.5,False,Regular,Sport Transmission,20,11.76075
+2013,Kia,Sorento 2WD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic 6-Speed,4.0,2.4,False,Regular,,24,9.800625
+2013,Mercedes-Benz,C350,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI; PZEV (SULEV) Emissions,23,10.226739130434783
+2013,Mercedes-Benz,E350,Midsize Cars,Rear-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,23,10.226739130434783
+2013,Mercedes-Benz,E350 4matic,Midsize Cars,4-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,22,10.691590909090907
+2013,Mercedes-Benz,E350 4matic Coupe,Subcompact Cars,4-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,22,10.691590909090907
+2013,Mercedes-Benz,E350 Coupe,Subcompact Cars,Rear-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,23,10.226739130434783
+2013,Mercedes-Benz,GLK350,Small Sport Utility Vehicle 2WD,Rear-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,21,11.200714285714286
+2013,Mercedes-Benz,GLK350 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,21,11.200714285714286
+2013,Nissan,Sentra,Midsize Cars,Front-Wheel Drive,Automatic (variable gear ratios),4.0,1.8,False,Regular,California Emission Control System,33,7.127727272727273
+2014,Ferrari,California,Minicompact Cars,Rear-Wheel Drive,Auto(AM7),8.0,4.3,False,Premium,SIDI; with Stop-Start Option,16,14.7009375
+2014,Ferrari,F12,Two Seaters,Rear-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start Option,13,18.09346153846154
+2014,Ferrari,FF,Midsize Cars,Part-time 4-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start Option,13,18.09346153846154
+2014,Mercedes-Benz,C300 4matic,Compact Cars,4-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,,22,10.691590909090907
+2014,Mercedes-Benz,C350,Compact Cars,Rear-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,23,10.226739130434783
+2014,Mercedes-Benz,E350 4matic Coupe,Subcompact Cars,4-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,,23,10.226739130434783
+2014,Mercedes-Benz,GLK350 4matic,Small Sport Utility Vehicle 4WD,4-Wheel Drive,Automatic 7-Speed,6.0,3.5,False,Premium,SIDI,21,11.200714285714286
+2015,Ferrari,F12,Two Seaters,Rear-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start Option,13,18.09346153846154
+2015,Ferrari,FF,Midsize Cars,Part-time 4-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start Option,13,18.09346153846154
+2015,Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4.0,2.0,True,Regular,SIDI; Stop-Start,24,9.800625
+2016,Ferrari,488 GTB,Two Seaters,Rear-Wheel Drive,Auto(AM7),8.0,3.9,True,Premium,SIDI; with Stop-Start option,18,13.0675
+2016,Ferrari,488 Spider,Two Seaters,Rear-Wheel Drive,Auto(AM7),8.0,3.9,True,Premium,SIDI; with Stop-Start option,18,13.0675
+2016,Ferrari,F12,Two Seaters,Rear-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start option,13,18.09346153846154
+2016,Ferrari,F60 America,Two Seaters,Rear-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start option,13,18.09346153846154
+2016,Ferrari,FF,Midsize Cars,Part-time 4-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start option,13,18.09346153846154
+2016,Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4.0,2.0,True,Regular,SIDI; Stop-Start,24,9.800625
+2017,Chrysler,Pacifica,Minivan - 2WD,Front-Wheel Drive,Automatic 9-Speed,6.0,3.6,False,Regular,Stop-Start,22,10.691590909090907
+2017,Ferrari,488 GTB,Two Seaters,Rear-Wheel Drive,Auto(AM7),8.0,3.9,True,Premium,SIDI; with Stop-Start option,18,13.0675
+2017,Ferrari,488 Spider,Two Seaters,Rear-Wheel Drive,Auto(AM7),8.0,3.9,True,Premium,SIDI; with Stop-Start option,18,13.0675
+2017,Ferrari,F12 Berlinetta,Two Seaters,Rear-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start option,13,18.09346153846154
+2017,Ferrari,GTC4Lusso,Minicompact Cars,Part-time 4-Wheel Drive,Auto(AM7),12.0,6.3,False,Premium,SIDI; with Stop-Start option,13,18.09346153846154
+2017,Ford,Edge FWD,Small Sport Utility Vehicle 2WD,Front-Wheel Drive,Automatic (S6),4.0,2.0,True,Regular,SIDI; Stop-Start,24,9.800625
+2017,Mazda,3 5-Door,Midsize Cars,Front-Wheel Drive,Automatic (S6),4.0,2.5,False,Regular,SIDI; with i-ELOOP Technology Package,30,7.8405
+2017,Toyota,Highlander AWD,Standard Sport Utility Vehicle 4WD,All-Wheel Drive,Automatic (S8),6.0,3.5,False,Regular,SIDI & PFI,22,10.691590909090907
